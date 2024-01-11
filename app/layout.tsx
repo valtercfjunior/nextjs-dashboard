@@ -8,7 +8,7 @@ export const metadata: Metadata = {
     default: 'Next Dashboard',
   },
   description: 'The official Next.js Learn Dashboard built with App Router.',
-  metadataBase: new URL('https://next-learn-dashboard.vercel.sh'),
+  metadataBase: new URL('https://nextjs-dashboard-rouge-delta-77.vercel.app/'),
 };
 
 
